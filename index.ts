@@ -4,4 +4,4 @@ console.log("hahahaha");
 
 console.log("huhuhuhuhu");
 
-console.log("hihihihihi");
+console.log("마지막입니다.");
